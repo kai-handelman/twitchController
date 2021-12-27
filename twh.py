@@ -10,9 +10,9 @@ import time
 SERVER = "irc.twitch.tv"
 PORT = 6667
 # Name of Personal Acc/Acc that is acting as "BOT"
-name = "kukuenhance"
+name = "nan"
 # Do not share - Our Idenifier Key
-password = "oauth:qtzqxr02luasq1kz5crgzq92e1qate"
+password = "nan
 # Channel the clinet is observing
 channelName = "stanz"
 
